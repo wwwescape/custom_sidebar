@@ -1,0 +1,83 @@
+{
+  "order": [
+    {
+      "item": "overview"
+    },
+    {
+      "item": "history"
+    },
+    {
+      "item": "logbook"
+    },
+    { "new_item": true, "spacer": true, "divider": true },
+    {
+      "item": "router"
+    },
+    { "new_item": true, "spacer": true, "divider": true },
+    {
+      "item": "portainer"
+    },
+    { "new_item": true, "spacer": true, "divider": true },
+    {
+      "item": "nodered"
+    },
+    { "new_item": true, "spacer": true, "divider": true },
+    {
+      "item": "esphome"
+    },
+    {
+      "item": "tasmota"
+    },
+    { "new_item": true, "spacer": true, "divider": true },
+    {
+      "item": "plex"
+    },
+    {
+      "item": "tautulli"
+    },
+    {
+      "item": "kitana"
+    },
+    { "new_item": true, "spacer": true, "divider": true },
+    {
+      "item": "radarr"
+    },
+    {
+      "item": "sonarr"
+    },
+    {
+      "item": "bazarr"
+    },
+    {
+      "item": "lidarr"
+    },
+    {
+      "item": "readarr"
+    },
+    {
+      "item": "jackett"
+    },
+    {
+      "item": "deluge"
+    },
+    { "new_item": true, "spacer": true, "divider": true },
+    {
+      "item": "hacs",
+      "bottom": true
+    },
+    {
+      "item": "developer-tools",
+      "bottom": true
+    },
+    {
+      "item": "configuration-editor",
+      "bottom": true,
+      "exact": true
+    },
+    {
+      "item": "config",
+      "bottom": true,
+      "exact": true
+    }
+  ]
+}
